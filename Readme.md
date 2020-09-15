@@ -7,5 +7,5 @@ Nagios configuration is in /conf.
 
 ## Install
 ```sh
-docker pull jasonrivers/nagios:latest
+docker pull indyspike/nagios:latest
 ```
